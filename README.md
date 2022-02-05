@@ -9,19 +9,19 @@
 
     # Description
     # A node.js app that generates a professional README.md file based on how the questions are answered
-    #
+    
     # Installation
     # No installation
-    #
+    
     # Usage
     # Just answer the prompts and the app will do the rest
-    #
+    
     # Contribution
     # No guidelines
-    #
+    
     # Test
     # No test
-    #
+    
     # Questions
     # GitHub Username: bell-amari
     # GitHub Profile: https://github.com/bell-amari

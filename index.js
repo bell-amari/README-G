@@ -72,19 +72,19 @@ inquirer.prompt([
 
     # Description
     # ${description}
-    #
+    
     # Installation
     # ${installation}
-    #
+    
     # Usage
     # ${usage}
-    #
+    
     # Contribution
     # ${contribution}
-    #
+    
     # Test
     # ${test}
-    #
+    
     # Questions
     # GitHub Username: ${git}
     # GitHub Profile: https://github.com/${git}

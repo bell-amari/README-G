@@ -1,6 +1,6 @@
 # README-G
 
-* [Licence] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+    * [Licence] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
     * [Description](#description)
     * [Installation](#installation)
     * [Usage](#usage)
